@@ -1,0 +1,1 @@
+.Net Core implementation of [bulk export](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-bulk-identity-mgmt) of device identities from one Azure IoT Hub to another.
